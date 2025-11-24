@@ -2,6 +2,26 @@
 
 A hybrid ML + computer vision system that automatically detects goals in soccer videos using YOLO for object detection and Hough transforms for goal structure analysis.
 
+## Inspiration & Related Work
+
+### Football Goal Detector
+
+    Project: Open-source football goal detection system
+
+    Relation: Inspiration for goal detection approaches and computer vision techniques
+
+    Source: julianfromano/football-goal-detector
+
+## Technologies Used
+
+    YOLOv8: Player and ball detection via Ultralytics
+
+    OpenCV: Computer vision operations and image processing
+
+    Supervision: Detection utilities and tracking
+
+    Roboflow Inference SDK: Cloud-based goalpost detection
+
 ## Quick Setup & Run
 
 ### Option 1: Using `uv` (Recommended)

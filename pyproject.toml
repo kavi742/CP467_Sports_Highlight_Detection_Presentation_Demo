@@ -1,0 +1,14 @@
+[project]
+name = "soccer-analysis"
+version = "1.0.0"
+description = "Soccer goal detection system using ML and computer vision"
+readme = "README.md"
+license = {text = "MIT"}
+dependencies = [
+    "opencv-python>=4.8.0",
+    "numpy>=1.21.0",
+    "torch>=2.0.0",
+    "ultralytics>=8.0.0",
+    "supervision>=0.15.0",
+    "inference-sdk>=0.7.0",
+]
